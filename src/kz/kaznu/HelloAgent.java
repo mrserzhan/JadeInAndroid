@@ -57,7 +57,6 @@ public class HelloAgent extends Agent implements MessageListener {
         Bundle bundle = new Bundle();
         bundle.putString("status","Ready for receiving");
         msg.setData(bundle);
-        context.handler.handleMessage(msg);
 
     }
 
@@ -90,7 +89,6 @@ public class HelloAgent extends Agent implements MessageListener {
         Bundle bundle = new Bundle();
         bundle.putString("message","Ready for receiving");
         msg.setData(bundle);
-        context.handler.handleMessage(msg);
     }
 
     @Override
