@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Jade</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <script src="js/jquery-1.8.0.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#server_host span").html(Android.getIPAddress());
+            $("#server_port span").html(Android.getPort());
+            $("#status").html(Android.getServerName());
+
+            Android.stopProgress();
+        });
+
+        function showMenu()
+        {
+
+        }
+
+        function addMessage(text)
+        {
+            $("#MessageBox").append(text+'\n');
+        }
+    </script>
+
+</head>
+<body class="place">
+
+    <h2 id="status"></h2>
+    <p id="server_host">Server address: <span></span></p>
+    <p id="server_port">Server port: <span></span></p>
+    <textarea rows="20" cols="40" id="MessageBox"></textarea>
+
+</body>
+</html>

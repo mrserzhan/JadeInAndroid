@@ -16,21 +16,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bce051-391b-4ff7-b795-a45a9f6ac118" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/calculator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/asd.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/practice3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/practice3/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java" />
-      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\res\layout\main.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jade_interface/place.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kz/kaznu/JadeService.java" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\practice3.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\practice3\form.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kz/kaznu/HelloAgent.java" afterPath="$PROJECT_DIR$/src/kz/kaznu/HelloAgent.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kz/kaznu/MyActivity.java" afterPath="$PROJECT_DIR$/src/kz/kaznu/MyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java" afterPath="$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java" />
     </list>
     <ignored path="JadeInAndroid.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,34 +91,16 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kz/kaznu/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="26" selection-start="1296" selection-end="1296" vertical-scroll-proportion="0.80501395">
+            <state line="87" column="68" selection-start="2626" selection-end="2626" vertical-scroll-proportion="0.030411448">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/jade_interface/index.html">
+      <file leaf-file-name="JadeService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kz/kaznu/JadeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="26" selection-start="1172" selection-end="1172" vertical-scroll-proportion="-9.807693">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaScripts.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="30" selection-start="1018" selection-end="1022" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="48" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0">
+            <state line="129" column="27" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,7 +109,52 @@
       <file leaf-file-name="HelloAgent.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kz/kaznu/HelloAgent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="22" selection-start="2242" selection-end="2242" vertical-scroll-proportion="0.0">
+            <state line="58" column="42" selection-start="1769" selection-end="1769" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/jade_interface/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="531" selection-end="550" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="place.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/jade_interface/place.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="38" selection-start="863" selection-end="876" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/jade_interface/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="24" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaScripts.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="37" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="49" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,12 +179,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java" />
         <option value="$PROJECT_DIR$/src/kz/kaznu/HelloAgent.java" />
-        <option value="$PROJECT_DIR$/src/kz/kaznu/MyActivity.java" />
+        <option value="$PROJECT_DIR$/assets/jade_interface/css/style.css" />
         <option value="$PROJECT_DIR$/assets/jade_interface/index.html" />
+        <option value="$PROJECT_DIR$/src/kz/kaznu/MicroRuntimeServiceExtended.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/assets/jade_interface/place.html" />
+        <option value="$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java" />
+        <option value="$PROJECT_DIR$/src/kz/kaznu/ServerService.java" />
+        <option value="$PROJECT_DIR$/src/kz/kaznu/JadeService.java" />
+        <option value="$PROJECT_DIR$/src/kz/kaznu/MyActivity.java" />
       </list>
     </option>
   </component>
@@ -195,12 +227,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
+      <pane id="ProjectPane">
+        <subPane>
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JadeInAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -219,148 +251,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kaznu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kaznu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JadeInAndroid" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jade_interface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -391,6 +287,7 @@
       <recent name="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\res" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\src\kz\kaznu" />
       <recent name="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\res\drawable" />
       <recent name="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\assets\jade_interface\js" />
       <recent name="C:\Users\Serzhan\IdeaProjects\JadeInAndroid\libs" />
@@ -621,12 +518,16 @@
       <created>1346839135773</created>
       <updated>1346839135773</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jade with html5">
+      <created>1347279782431</created>
+      <updated>1347279782431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.4969651" order="7" side_tool="false" content_ui="tabs" />
@@ -634,25 +535,25 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31527093" sideWeight="0.4978038" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31527093" sideWeight="0.4978038" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270548" sideWeight="0.49707174" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270548" sideWeight="0.49707174" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24545455" sideWeight="0.65753424" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34246576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23939393" sideWeight="0.65753424" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34246576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.65753424" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -693,7 +594,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="working basicly script" />
+    <option name="LAST_COMMIT_MESSAGE" value="jade with html5" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -710,6 +611,7 @@
     <MESSAGE value="Project created" />
     <MESSAGE value="Jade Library added" />
     <MESSAGE value="working basicly script" />
+    <MESSAGE value="jade with html5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -726,46 +628,77 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/core/MicroRuntime.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="0.211838" />
+        <state line="5" column="57" selection-start="162" selection-end="162" vertical-scroll-proportion="0.05151515" />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/android/MicroRuntimeService.class">
+    <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/core/Runtime.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.2060606" />
+        <state line="24" column="39" selection-start="884" selection-end="884" vertical-scroll-proportion="0.35568514" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/core/event/MessageListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="157" selection-end="157" vertical-scroll-proportion="0.2035928" />
+        <state line="5" column="17" selection-start="157" selection-end="157" vertical-scroll-proportion="0.19825073" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/core/Profile.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="48" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" />
+        <state line="8" column="41" selection-start="327" selection-end="327" vertical-scroll-proportion="0.2284069" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jade_interface/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/android/MicroRuntimeServiceBinder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.13572854" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JadeAndroid.jar!/jade/android/MicroRuntimeService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="1" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.79640716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kz/kaznu/JadeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="27" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kz/kaznu/HelloAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="22" selection-start="2242" selection-end="2242" vertical-scroll-proportion="0.0" />
+        <state line="58" column="42" selection-start="1769" selection-end="1769" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/jade_interface/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="26" selection-start="1172" selection-end="1172" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="531" selection-end="550" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jade_interface/place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="38" selection-start="863" selection-end="876" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jade_interface/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="24" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kz/kaznu/js/JavaScripts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="30" selection-start="1018" selection-end="1022" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="80" column="37" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="49" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kz/kaznu/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="26" selection-start="1296" selection-end="1296" vertical-scroll-proportion="0.80501395">
+        <state line="87" column="68" selection-start="2626" selection-end="2626" vertical-scroll-proportion="0.030411448">
           <folding />
         </state>
       </provider>
